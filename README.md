@@ -1,2 +1,7 @@
-# sistema-de-registro
-Avance de curso Alura Latam (GitHub)
+# Sistem a de registro
+
+- Estado del proyecto: En contrucción.
+
+Para ejecutar el sistema, debes poner:
+
+```npm install react```
